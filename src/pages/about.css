@@ -1,0 +1,9 @@
+div.about h2 {
+    color: black;
+}
+
+#shop1 {
+    min-width: 400px;
+    height: 220px;
+    border-radius: 10px;
+}

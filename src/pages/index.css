@@ -1,0 +1,137 @@
+.bb {
+    align-items: center;
+    padding-left: 50px;
+    padding-right: 30px;
+    display: grid;
+}
+
+.cc {
+    padding-left: 50px;
+    padding-right: 30px;
+}
+
+.hero-image {
+    min-width: 100px;
+    height: 400px;
+    padding-left:20px ;
+}
+
+h1 {
+    text-align: center;
+    color: orange;
+}
+
+.mainprdt{
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap:10px ;
+    
+}
+.top{
+    border: 1px solid orange;
+    border-radius: 10%;
+    height: 540px;
+    background-color: rgb(243, 206, 138);
+}
+
+.hero {
+    display: grid;
+    position: relative;
+    left: 30px;
+    grid-template-areas: 
+    "button"
+}
+
+.cta {
+    display: grid;
+    grid-row: gap 10px;
+    color: rgb(20, 20, 20);
+    font-style: italic;
+    grid-template-areas: 
+    "cta cta1"
+    "cta cta2"
+    "price"
+}
+
+#d {
+    min-width : 200px;
+    height: 150px;
+    padding-top: 10px;
+  }
+
+  
+
+.logo1 {
+      min-width: 50px;
+      height: 50px;
+  }
+.bar {
+      background-color: orange;
+      display: flex;
+      align-items: center;
+      }
+a {
+    color: rgb(20, 20, 20);
+    align-self: center;
+    
+}
+
+Link {
+    color: rgb(20, 20, 20);
+    align-self: center;
+    position: relative;
+}
+
+.food {
+    padding-left: 160px;
+
+}
+
+.style{
+    padding-left:  260px;
+}
+.certi {
+    padding-left: 360px;
+}
+
+.snipcart1{
+    position: relative;
+    left: 350px;
+    width: 100px;
+    height: 30px;
+    bottom: 300px;
+  
+}
+button{
+    padding-right: 6px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-color:rgb(184, 181, 18);
+    align-content:center;
+    justify-content: center;
+    border-radius: 10%;
+}
+
+#shop {
+    min-width: 500px;
+    height: 300px;
+    border-radius: 10px;
+
+}
+
+
+img.animated-gif{
+    width: 430px;
+    height: auto;
+    border-radius: 8px;
+    opacity: 1;
+  }
+ #prdt-tag{
+     padding-left: 20px;
+ }
+ p{
+     line-height: 30px;
+     padding-left: 10px;
+ }
+
+ 
