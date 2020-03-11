@@ -1,0 +1,27 @@
+.container {
+    align-items: center;
+    position: relative;
+    /* background:rgb(122, 102, 86); */
+    height: 10vh;  
+    
+      }
+    
+    .circle {
+    position: absolute;
+    border-radius: 100%;
+    background: rgb(255, 252, 98);
+    opacity: 0.5;
+  
+    
+     
+    top: 50px;
+    right: 10px;  
+    left:10px;
+    width: 100px;
+    height: 100px;
+    /* padding: 5px;  */
+    width: max-content;
+    
+      }
+    
+    
